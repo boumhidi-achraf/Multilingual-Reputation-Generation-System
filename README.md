@@ -82,3 +82,17 @@ Web Application Dataset
 🏷️ Topic: Online service reviews
 📊 Size: 2500 reviews (1450 Positive, 820 Negative)
 🎯 Task: Reputation Score Calculation
+
+
+------------------------------------------------------------
+------------------------------------------------------------
+
+📜 Citation
+If you use these datasets in your research, please cite our paper:
+
+article{Boumhidi2025MultilingualReputation,
+  author  = {Achraf Boumhidi, Abdessamad Benlahbib, Erik Cambria, El Habib Nfaoui},
+  title   = {Multilingual Reputation Generation System through Daily Opinion Mining Analysis},
+  journal = {Results in Engineering},
+  year    = {2025}
+}
