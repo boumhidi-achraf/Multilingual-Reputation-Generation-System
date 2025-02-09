@@ -1,12 +1,14 @@
 # ABSA Datasets: Access and Merging Guide
 
 ## Step 1: Download the Datasets
-The SemEval datasets can typically be found in public repositories or research papers. You can download them manually from official sources like:
+To download the SemEval datasets, you will need to visit the official sources for each task. Below are the links to the datasets:
 - [SemEval 2014 Task 4](https://alt.qcri.org/semeval2014/task4/)
 - [SemEval 2015 Task 12](https://alt.qcri.org/semeval2015/task12/)
 - [SemEval 2016 Task 5](https://alt.qcri.org/semeval2016/task5/)
 
-Alternatively, you can check Kaggle or GitHub repositories for preprocessed versions.
+Important Note:
+Before downloading the datasets, you will need to accept the license terms associated with each dataset. The license terms typically outline the permitted uses of the data, restrictions, and citation requirements.
+
 
 ## Step 2: Load the Datasets
 Assuming you have downloaded the datasets in XML format, use `BeautifulSoup` to parse them and convert them into a structured DataFrame.
@@ -75,4 +77,4 @@ print(merged_data.head())
 4. Merge all datasets.
 5. Save the combined dataset for training.
 
-This combined dataset (13,348 instances) can now be used for Aspect-Based Sentiment Analysis (ABSA) tasks.
+This combined dataset (13,348 instances) can now be used for Aspect-Based Sentiment Analysis (ABSA) as discribed in the manuscript.
