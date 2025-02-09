@@ -1,4 +1,4 @@
-# ABSA Datasets: Access and Merging Guide
+# SemEval Datasets: Access and Merging Guide for ASBA
 
 ## Step 1: Download the Datasets
 To download the SemEval datasets, you will need to visit the official sources for each task. Below are the links to the datasets:
