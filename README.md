@@ -49,7 +49,7 @@ This part of the repository contains datasets for **Translation Evaluation**. Be
 - **Task**: Evaluating Sentiment Preservation in Translations
 
 
-For detailed instructions on how to access these datasets, please refer to the [**Translation Evaluation/**](Translation Evaluation/) file.
+For detailed instructions on how to access these datasets, please refer to the[**Translation Evaluation**](./Translation%20Evaluation) file.
 
 -----------------------------------------------------------------------------
 
