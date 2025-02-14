@@ -7,7 +7,9 @@ This repository contains the datasets used in the research paper:
 
 The datasets included here were used for evaluating various components of the proposed system, such as aspect-based sentiment analysis (ABSA), sarcasm detection, deceptive review filtering, and reputation computation. These datasets originate from benchmark NLP datasets as well as manually collected and annotated reviews from social media platforms.
 
-# 📂 Dataset Overview
+# 📂 Dataset Overview :
+
+---
 
 This part of the repository contains datasets for **Aspect-Based Sentiment Analysis (ABSA)** Below is a summary of the available datasets:
 
@@ -38,15 +40,17 @@ For detailed instructions on how to access these datasets, please refer to the [
 
 ---------------------------------------------------------------------------
 
-This part of the repository contains datasets for **Translation Evaluation**. Below is a summary of the available datasets: 
+This part of the repository contains datasets for **Translation Evaluation**. Below is a summary of the available dataset:
 
-Multilingual Review Dataset : 
+## Multilingual Review Dataset  
+- **Topic**: Smartphone Reviews (iPhone 16)  
+- **Size**: 670 reviews in 5 languages (French, Hindi, Spanish, Turkish, Arabic)  
+- **Sentiment Distribution**: 380 Positive, 265 Negative, 58 Sarcastic  
+- **Task**: Evaluating Sentiment Preservation in Translations
 
-🏷️ Topic: Smartphone reviews (iPhone 16)
-📊 Size: 670 reviews in 5 languages (French, Hindi, Spanish, Turkish, Arabic)
-🏷️ Sentiment Distribution: 380 Positive, 265 Negative, 58 Sarcastic
-🎯 Task: Evaluating Sentiment Preservation in Translations
+---
 
+The dataset is available in the **Translation Evaluation** folder within this repository.
 -----------------------------------------------------------------------------
 
 3️⃣ Sarcasm Detection Datasets
