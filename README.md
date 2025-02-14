@@ -38,7 +38,8 @@ This part of the repository contains datasets for **Aspect-Based Sentiment Analy
 For detailed instructions on how to access these datasets, please refer to the [**Mixed_SemEval_for_ABSA.md**](Mixed_SemEval_for_ABSA.md) file.
 
 
----------------------------------------------------------------------------
+---
+---
 
 This part of the repository contains datasets for **Translation Evaluation**. Below is a summary of the available dataset:
 
@@ -51,11 +52,10 @@ This part of the repository contains datasets for **Translation Evaluation**. Be
 
 For detailed instructions on how to access these datasets, please refer to the[**Translation Evaluation**](./Translation%20Evaluation) file.
 
------------------------------------------------------------------------------
+---
+---
 
 This section provides detailed instructions on how to access the **Sarcasm Corpus V2** and **Stanford Sentiment Treebank (SST-2)** datasets, which are useful for sarcasm detection and sentiment classification tasks.
-
----
 
 ##  1️⃣ **Sarcasm Corpus V2**
 
@@ -71,7 +71,9 @@ This section provides detailed instructions on how to access the **Sarcasm Corpu
 ### How to Access:
 For detailed instructions on how to access and load the **Sarcasm Corpus V2** **Stanford Sentiment Treebank (SST-2), refer to the [**Sarcasm_Corpus_V2_and_SST2.md**](Sarcasm_Corpus_V2_and_SST2.md) file.
 
---------------------------------------------------------------------------
+---
+---
+
 4️⃣ Deceptive Review Detection Dataset
 
 Deceptive Review Dataset (Collected from Social Media)
@@ -80,7 +82,8 @@ Deceptive Review Dataset (Collected from Social Media)
 📊 Size: 1000 reviews (682 genuine, 318 spam)
 🎯 Task: Fake/deceptive review detection
 
----------------------------------------------------------------------------
+---
+---
 
 5️⃣ Reputation Computation Datasets
 
@@ -101,11 +104,5 @@ Web Application Dataset
 ------------------------------------------------------------
 
 📜 Citation
-If you use these datasets in your research, please cite our paper:
+If you use these datasets in your research, please cite our paper.
 
-article{Boumhidi2025MultilingualReputation,
-  author  = {Achraf Boumhidi, Abdessamad Benlahbib, Erik Cambria, El Habib Nfaoui},
-  title   = {Multilingual Reputation Generation System through Daily Opinion Mining Analysis},
-  journal = {Results in Engineering},
-  year    = {2025}
-}
