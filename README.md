@@ -48,9 +48,9 @@ This part of the repository contains datasets for **Translation Evaluation**. Be
 - **Sentiment Distribution**: 380 Positive, 265 Negative, 58 Sarcastic  
 - **Task**: Evaluating Sentiment Preservation in Translations
 
----
 
-The dataset is available in the **Translation Evaluation** folder within this repository.
+For detailed instructions on how to access these datasets, please refer to the [**Translation Evaluation/**](Translation Evaluation/) file.
+
 -----------------------------------------------------------------------------
 
 3️⃣ Sarcasm Detection Datasets
