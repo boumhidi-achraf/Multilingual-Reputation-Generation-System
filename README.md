@@ -32,16 +32,15 @@ This part of the repository contains datasets for **Aspect-Based Sentiment Analy
 - **Task**: Aspect-Based Sentiment Analysis (ABSA)  
 - This dataset is a combination of the datasets listed above.
 
----
 
 For detailed instructions on how to access these datasets, please refer to the [**Mixed_SemEval_for_ABSA.md**](Mixed_SemEval_for_ABSA.md) file.
 
 
 ---------------------------------------------------------------------------
 
-Translation Evaluation Dataset
+This part of the repository contains datasets for **Translation Evaluation**. Below is a summary of the available datasets: 
 
-Multilingual Review Dataset
+Multilingual Review Dataset : 
 
 🏷️ Topic: Smartphone reviews (iPhone 16)
 📊 Size: 670 reviews in 5 languages (French, Hindi, Spanish, Turkish, Arabic)
