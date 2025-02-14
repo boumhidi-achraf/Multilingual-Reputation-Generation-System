@@ -53,17 +53,24 @@ For detailed instructions on how to access these datasets, please refer to the[*
 
 -----------------------------------------------------------------------------
 
-3️⃣ Sarcasm Detection Datasets
+This section provides detailed instructions on how to access the **Sarcasm Corpus V2** and **Stanford Sentiment Treebank (SST-2)** datasets, which are useful for sarcasm detection and sentiment classification tasks.
 
-Sarcasm Corpus V2
+---
 
-🏷️ Topic: General text reviews
-🎯 Task: Sarcasm detection
+##  1️⃣ **Sarcasm Corpus V2**
 
-Stanford Sentiment Treebank (SST-2)
+- **Topic**: General text reviews  
+- **Task**: Sarcasm detection
 
-🏷️ Topic: General text reviews
-🎯 Task: Sentiment classification
+
+## 2️⃣ **Stanford Sentiment Treebank (SST-2)**
+
+- **Topic**: General text reviews  
+- **Task**: Sentiment classification
+
+### How to Access:
+For detailed instructions on how to access and load the **Sarcasm Corpus V2** **Stanford Sentiment Treebank (SST-2), refer to the [**Sarcasm_Corpus_V2_and_SST2.md**](Sarcasm_Corpus_V2_and_SST2.md) file.
+
 --------------------------------------------------------------------------
 4️⃣ Deceptive Review Detection Dataset
 
