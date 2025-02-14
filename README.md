@@ -74,13 +74,16 @@ For detailed instructions on how to access and load the **Sarcasm Corpus V2** **
 ---
 ---
 
-4️⃣ Deceptive Review Detection Dataset
+This section provides detailed instructions on how to access the **Deceptive Review Dataset**, which is useful for detecting fake or deceptive reviews.
 
-Deceptive Review Dataset (Collected from Social Media)
+## **Deceptive Review Dataset (Collected from Social Media)**
 
-🏷️ Topic: Reviews from Twitter, Facebook, Yelp, TripAdvisor
-📊 Size: 1000 reviews (682 genuine, 318 spam)
-🎯 Task: Fake/deceptive review detection
+- **Topic**: Reviews from Twitter, Facebook, Yelp, TripAdvisor  
+- **Size**: 1000 reviews (682 genuine, 318 spam)  
+- **Task**: Fake/deceptive review detection
+
+### How to Access:
+For detailed instructions on how to access and load the **Deceptive Reviews Dataset**, refer to the [**Deceptive Reviews**](./Deceptive%20Reviews) folder.
 
 ---
 ---
