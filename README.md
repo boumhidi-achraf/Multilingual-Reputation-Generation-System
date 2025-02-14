@@ -1,42 +1,45 @@
-Multilingual Reputation Generation System - Datasets
+# Multilingual Reputation Generation System - Datasets
+
+## 📌 About This Repository
 
 This repository contains the datasets used in the research paper:
 📄 "Multilingual Reputation Generation System through Daily Opinion Mining Analysis", published in Results in Engineering.
 
-📌 About This Repository
 The datasets included here were used for evaluating various components of the proposed system, such as aspect-based sentiment analysis (ABSA), sarcasm detection, deceptive review filtering, and reputation computation. These datasets originate from benchmark NLP datasets as well as manually collected and annotated reviews from social media platforms.
 
-📂 Dataset Overview
+# 📂 Dataset Overview
 
-1️⃣ Aspect-Based Sentiment Analysis (ABSA) Datasets
+This part of the repository contains datasets for **Aspect-Based Sentiment Analysis (ABSA)** Below is a summary of the available datasets:
 
-SemEval 2014 Task 4 (Rest14 & Lap14)
+## 1️⃣ **SemEval 2014 Task 4 (Rest14 & Lap14)**  
+- **Topic**: Restaurant & Laptop Reviews  
+- **Size**: 6370 (Rest14), 3766 (Lap14)  
+- **Task**: Aspect-Based Sentiment Analysis (ABSA)
 
-🏷️ Topic: Restaurant & Laptop reviews
-📊 Size: 6370 (Rest14), 3766 (Lap14)
-🎯 Task: Aspect-Based Sentiment Analysis (ABSA)
+## 2️⃣ **SemEval 2015 Task 12 (Rest15)**  
+- **Topic**: Restaurant Reviews  
+- **Size**: 2412  
+- **Task**: Aspect-Based Sentiment Analysis (ABSA)
 
-SemEval 2015 Task 12 (Rest15)
+## 3️⃣ **SemEval 2016 Task 5 (Rest16)**  
+- **Topic**: Restaurant Reviews  
+- **Size**: 3242  
+- **Task**: Aspect-Based Sentiment Analysis (ABSA)
 
-🏷️ Topic: Restaurant reviews
-📊 Size: 2412
-🎯 Task: ABSA
+## 4️⃣ **Mixed Dataset**  
+- **Topic**: Restaurant & Laptop Reviews  
+- **Size**: 13,348  
+- **Task**: Aspect-Based Sentiment Analysis (ABSA)  
+- This dataset is a combination of the datasets listed above.
 
-SemEval 2016 Task 5 (Rest16)
+---
 
-🏷️ Topic: Restaurant reviews
-📊 Size: 3242
-🎯 Task: ABSA
+For detailed instructions on how to access these datasets, please refer to the [**Mixed_SemEval_for_ABSA.md**](Mixed_SemEval_for_ABSA.md) file.
 
-Mixed Dataset (Combination of the above)
-
-🏷️ Topic: Restaurant & Laptop reviews
-📊 Size: 13,348
-🎯 Task: ABSA
 
 ---------------------------------------------------------------------------
 
-2️⃣ Translation Evaluation Dataset
+Translation Evaluation Dataset
 
 Multilingual Review Dataset
 
