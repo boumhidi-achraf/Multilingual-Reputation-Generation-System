@@ -83,7 +83,7 @@ This section provides detailed instructions on how to access the **Deceptive Rev
 - **Task**: Fake/deceptive review detection
 
 ### How to Access:
-For detailed instructions on how to access and load the **Deceptive Reviews Dataset**, refer to the [**Deceptive Reviews**](./Deceptive%20reviews) folder.
+For detailed instructions on how to access and load the **Deceptive Reviews Dataset**, refer to the [**Deceptive Reviews**](./Deceptive_reviews) folder.
 
 ---
 ---
