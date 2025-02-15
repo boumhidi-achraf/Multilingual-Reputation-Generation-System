@@ -1,4 +1,5 @@
-# Multilingual Reputation Generation System - Datasets
+# Results in Engineering Journal
+## Multilingual Reputation Generation System through Daily Opinion Mining Analysis
 
 ## 📌 About This Repository
 
