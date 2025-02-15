@@ -93,17 +93,17 @@ This section provides detailed instructions on how to access the **Reputation Ev
 
 ### 1️⃣ Phone Product Dataset
 
-🏷️ Topic: Smartphone brand reviews
-📦 Product : iPhone 15 by Apple Inc.
-📊 Size: 3000 reviews (1980 Positive aspect, 700 Negative aspect)
-🎯 Task: Reputation system evaluation
+- 🏷️ Topic: Smartphone brand reviews
+- 📦 Product : iPhone 15 by Apple Inc.
+- 📊 Size: 3000 reviews (1980 Positive aspect, 700 Negative aspect)
+- 🎯 Task: Reputation system evaluation
 
 ### 2️⃣ Web Application Dataset
 
-🏷️ Topic: Online service reviews
-🌐: Service : ChatGPT by OpenAI Inc.
-📊 Size: 2500 reviews (1450 Positive aspect, 820 Negative aspect)
-🎯 Task: Reputation system evaluation
+- 🏷️ Topic: Online service reviews
+- 🌐: Service : ChatGPT by OpenAI Inc.
+- 📊 Size: 2500 reviews (1450 Positive aspect, 820 Negative aspect)
+- 🎯 Task: Reputation system evaluation
 
 ### How to Access:
 For detailed instructions on how to access and load the **Phone Product and Web Service Dataset**, refer to the [**Deceptive Reviews**](./Deceptive_reviews) folder.
