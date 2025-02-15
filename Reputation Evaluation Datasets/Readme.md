@@ -8,7 +8,7 @@ To help you understand the structure and format of the datasets, we are providin
 
 These sample datasets can be accessed directly withion this folder. They allow you to explore the dataset's structure and understand the format of the reviews, aspects, and sentiment.
 
-You can download the sample datasets using the following here : [Reputation Evaluation Dataset](Multilingual-Reputation-Generation-System/Reputation%20Evaluation%20Datasets/)
+You can download the sample datasets (ChatGPT_Reputation.csv) and (iPhone15_Reputation.csv) using the following here : [Reputation Evaluation Dataset](Multilingual-Reputation-Generation-System/Reputation%20Evaluation%20Datasets/)
 
 
 ## Accessing the Full Datasets
